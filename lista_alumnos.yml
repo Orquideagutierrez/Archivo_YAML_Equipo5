@@ -1,0 +1,37 @@
+alumnos:
+- item_id: 1
+  matricula: 91810227
+  nombre: Micheli Anay
+  apaterno: Lopez
+  amaterno: Vazquez
+  edad: 21
+  correo: lvmicheli472@gmail.com
+  telefono: 9841298217
+  carrera: IRIyC
+- item_id: 2
+  matricula: 91810267
+  nombre: yeni
+  apaterno: mendez
+  amaterno: arcos
+  edad: 21
+  correo: arcos@gmail.com
+  telefono: 919123890
+  carrera: IRIyC
+- item_id: 3
+  matricula: 91810589
+  nombre: "Josefa"
+  apaterno: "P\xE9rez"
+  amaterno: "lopez"
+  edad: 23
+  correo: Perez914@gmail.com
+  telefono: 91915245890
+  carrera: IRIyC
+- item_id: 4
+  matricula: 91810098
+  nombre: ana
+  apaterno: Lopez
+  amaterno: Gomez
+  edad: 20
+  correo: lopezal@gmail.com
+  telefono: 9161371400
+  carrera: IRIyC
